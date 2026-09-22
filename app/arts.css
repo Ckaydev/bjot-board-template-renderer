@@ -1,0 +1,15 @@
+/* Brown template used automatically for every non-science subject. */
+.example{display:none}.solution-copy{height:740px}
+.question-copy{font-size:21px;line-height:1.5}.option{font-size:21px}.solution-copy{font-size:19.5px;line-height:1.5}.key-card p,.tip-section p{font-size:19.5px;line-height:1.5}.q-number{font-size:18px}.final-answer{position:relative;border-width:2px;border-radius:9px;padding-left:20px;gap:0;background:#fffef8}.final-answer:before{content:"";position:absolute;left:0;top:0;bottom:0;width:8px;border-radius:7px 0 0 7px;background:#dba42d}.final-answer .medal{display:none}.final-answer b{font-size:14px}.final-answer strong{font-size:17px}.final-answer small{font-size:15px}.option em{font-size:28px;font-weight:900;color:#2fa44f}
+.poster.arts-template{position:relative;background:#5a3b1d url('/template-arts.png') center/100% 100% no-repeat;color:#fff8e6;box-shadow:0 12px 35px #24150855}
+.arts-template .template-logo,.arts-template .motto,.arts-template .header-contact>b,.arts-template .header-contact>i{visibility:hidden}
+.arts-template .header-contact{position:absolute;right:38px;top:34px;display:block;width:210px;height:77px;padding:5px 0 0 10px;background:linear-gradient(100deg,#6b4828,#573719);text-align:left;z-index:3}
+.arts-template .header-contact strong{color:#fff;font-size:24px}.arts-template .header-contact em{color:#ffc400;font-size:24px;overflow:hidden;text-overflow:ellipsis}
+.arts-template .question-col,.arts-template .solution-col{border-color:transparent}.arts-template .section-title{visibility:hidden}.arts-template .watermark{visibility:hidden}
+.arts-template .q-number{color:#ffd129;margin-top:18px}.arts-template .q-number i{border-color:#ffd129}
+.arts-template .question-copy,.arts-template .solution-copy{color:#fff9ea;text-shadow:0 1px 1px #2f1b0d;font-weight:600}
+.arts-template .option{color:#fff9ea}.arts-template .option b{border-color:#ffd12a;color:#ffd12a}.arts-template .option em{color:#ffe05a}
+.arts-template .option-rule{border-color:#ffd12a}.arts-template .final-answer{border-color:#ffd12a;background:#4a2d14aa}.arts-template .final-answer b,.arts-template .final-answer small{color:#fff9ea}.arts-template .final-answer strong{color:#ffd12a}.arts-template .medal{background:#f4b800;color:#3e260f}
+.arts-template .example{border-color:#ffd12a;background:#4a2d1499;color:#fff9ea}.arts-template .example b{color:#ffd12a}
+.arts-template .tips-col{background:transparent}.arts-template .key-card{margin:0 -14px;border:0;background:transparent;color:#2b1b0d;padding:54px 18px 12px}.arts-template .key-card h2,.arts-template .tip-section h2{visibility:hidden;margin:0;height:0}.arts-template .key-card p{font-weight:600}
+.arts-template .tip-section{color:#2b1b0d;padding-top:62px}.arts-template .tip-section.mistake{border:0;padding-top:72px}.arts-template .poster-footer{visibility:hidden}

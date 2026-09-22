@@ -1,0 +1,16 @@
+{
+  "examYear": "UTME 2027",
+  "subject": "CHEMISTRY",
+  "number": "001",
+  "question": "2.24 dm³ of CO₂ was collected at 27°C and 750 mmHg. Find the volume it will occupy at 100°C and 600 mmHg.",
+  "optionA": "2.80 dm³",
+  "optionB": "2.24 dm³",
+  "optionC": "1.68 dm³",
+  "optionD": "1.40 dm³",
+  "answer": "C",
+  "answerText": "1.68 dm³",
+  "solutionMethod": "Combined Gas Law",
+  "keyPoint": "Use absolute temperature and the combined gas law when pressure, volume, and temperature change.",
+  "examTip": "Convert Celsius to Kelvin before substitution.",
+  "commonMistake": "Using Celsius directly in a gas-law calculation."
+}
